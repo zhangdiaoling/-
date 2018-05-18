@@ -1,0 +1,64 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.4;
+	color: #333;
+	background-color: #fff;
+}
+
+.fix {
+	zoom: 1;
+}
+
+.fix:after{
+	display: block;
+	content: "clear";
+	height: 0;
+	clear: both;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+.basic {
+	float: left;
+	margin-right: 32px;
+}
+
+.name {
+	margin-right: 14px;
+	font-weight: 700;
+}
+
+.neng {
+	margin: 0;
+	line-height: 1.4;
+}
+
+.neng2 {
+	margin: 1em 0 0 0;
+	line-height: 1.4;
+}
+
+.ee {
+	margin: 0;
+	line-height: 1.4;
+}
+.jianli{
+	float: left;
+
+	width: 200px;
+	height: 680px;
+	margin: 0;
+	padding-top: 60px;
+	text-align: center;
+
+	font-size: 40px;
+	color: #FFF;
+	background-color: #50A5F6;
+}
+
+.main{
+	float: left;
+
+	padding-left: 24px;
+}

@@ -1,0 +1,91 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.4;
+	color: #333;
+	background-color: #fff;
+}
+.jianli {
+	line-height: 70px;
+	padding-left: 16px;
+	margin: 0;
+	color: #FFF;
+	background-color: #999;
+}
+.box {
+	border: 1px solid #D6D6D6;
+	border-top: none;
+}
+.qw {
+	float: left;
+	padding: 30px 20px;
+	margin: 0;
+
+	font-size: 14px;
+	font-weight: bold;
+
+	background-color: #D6D6D6;
+	border-bottom: 1px solid #FFF;
+}
+
+.fix {
+	zoom: 1;
+}
+
+.fix:after{
+	display: block;
+	content: "clear";
+	height: 0;
+	clear: both;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+.basic {
+	float: left;
+	margin: 0 16px;
+	padding-top: 16px;
+}
+
+.name {
+	margin-right: 14px;
+	font-weight: 700;
+}
+
+.m1 {
+	float: left;
+	margin:0 16px;
+	padding-top: 16px;
+}
+
+.neng {
+	float: left;
+	line-height: 20px;
+
+	margin: 0;
+
+	font-size: 14px;
+	font-weight: bold;	
+}
+.ee{
+	float: left;
+	line-height: 20px;
+	margin: 0;
+}
+.neng2 {
+	float: left;
+	line-height: 20px;
+
+	margin:0 ;
+
+	font-size: 14px;
+	font-weight: bold;	
+}
+
+
+
+
+
+
+
+
