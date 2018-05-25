@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+}
+.main {
+	display: flex;
+}
+.left {
+	width: calc(100% - 300px);
+	height: 800px;
+
+	background-color: red;
+}
+.right {
+	width: 300px;
+	height: 800px;
+
+	background-color: yellow;
+}

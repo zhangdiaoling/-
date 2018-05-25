@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+}
+.main {
+	position: relative;
+}
+.left {
+	position: absolute;
+	left: 0;
+
+	width: 200px;
+	height: 800px;
+
+	background-color: red;
+}
+.middle {
+	position: absolute;
+	left: 200px;
+
+	width: calc(100% - 400px);
+	height: 800px;
+
+	background-color: blue;
+}
+.right {
+	position: absolute;
+	right: 0;
+
+	width: 200px;
+	height: 800px;
+
+	background-color: yellow;
+}

@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+}
+.left {
+	width: calc(100% - 300px);
+	height: 800px;
+
+	background-color: red;
+}
+.right {
+	position: absolute;
+	top: 0;
+	right: 0;
+	
+	width: 300px;
+	height: 800px;
+	background-color: yellow;
+}

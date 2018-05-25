@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+}
+.left {
+	width: 30%;
+	height: 600px;
+
+	background-color: red;
+}
+.right {
+	position: absolute;
+	top: 0;
+	left: 30%;
+
+	width: 70%;
+	height: 600px;
+
+	background-color: yellow;
+}

@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+}
+.mian: after {
+	content: "";
+	height: 0;
+	visibility: hidden;
+	display: block;
+	clear:both;
+}
+.left {
+	float: left;
+
+	width: calc(100% - 300px);
+	height: 800px;
+
+	background-color: yellow;
+}
+.right {
+	float: right;
+
+	width: 300px;
+	height: 800px;
+
+	background-color: red;
+}
